@@ -12,7 +12,7 @@ class _BotCommands:
         self.PingCommand = 'ping'
         self.RestartCommand = 'restart'
         self.StatsCommand = 'stats'
-        self.HelpCommand = 'help3'
+        self.HelpCommand = 'helperss'
         self.LogCommand = 'loggers'
         self.CloneCommand = "clone3"
         self.WatchCommand = 'watch3'
